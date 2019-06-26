@@ -28,7 +28,11 @@ original_lengths.shape = (number of instances,)
 
 ## Usage
 
-You can run the command `python ConvMESN.py` to test the model ConvMESN.
+You can run the command 
+```
+python ConvMESN.py
+```
+to test the model ConvMESN.
 
 
 
