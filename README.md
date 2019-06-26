@@ -22,7 +22,7 @@ labels.shape = (number of instances,)
 original_lengths.shape = (number of instances,)
 ```
 
-![Fig](F:\github-lab\ConvMESN\MTS.JPG)
+![Fig](https://github.com/qianlima-lab/ConvMESN/blob/master/MTS.JPG)
 
 
 
