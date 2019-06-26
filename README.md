@@ -3,14 +3,14 @@ The code in this repository for paper "Convolutional Multi-timescale Echo State 
 
 
 
-### Dependencies
+## Dependencies
 
 * Keras 2.0 and above
 * tensorflow 0.4 and above
 
 
 
-### 18 MTS Datasets
+## 18 MTS Datasets
 
 The 18 MTS(Multivariate Time Series) benchmark data sets can download from [link](https://pan.baidu.com/s/1lLP36LkngMedROSjDSM9qg). The verification code is `b29j`. They are collected from different repository, such as UCI, UCR and so on. These benchmark data sets come from various fields and have various input ranges and different numbers of classes, variables, and instances. Detail information of each data set is shown in following Fig. 
 
@@ -26,7 +26,7 @@ original_lengths.shape = (number of instances,)
 
 
 
-### Usage
+## Usage
 
 You can run the command `python ConvMESN.py` to test the model ConvMESN.
 
