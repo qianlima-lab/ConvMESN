@@ -1,5 +1,5 @@
 # Convolutional Multi-timescale Echo State Network
-The code in this repository for paper "Convolutional Multi-timescale Echo State Network" accepted by IEEE Transactions on Cybernetics.
+The code in this repository for paper "Convolutional Multi-timescale Echo State Network[!https://ieeexplore.ieee.org/document/8736487]" accepted by IEEE Transactions on Cybernetics.
 
 
 
