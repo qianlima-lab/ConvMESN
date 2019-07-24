@@ -35,7 +35,7 @@ python ConvMESN.py
 to test the model ConvMESN.
 
 
-### Reference
+## Reference
 ```
 @ARTICLE{convolutional2019Ma, 
 author={Q. {Ma} and E. {Chen} and Z. {Lin} and J. {Yan} and Z. {Yu} and W. W. Y. {Ng}}, 
