@@ -1,5 +1,5 @@
 # Convolutional Multi-timescale Echo State Network
-The code in this repository for paper "Convolutional Multi-timescale Echo State Network[!https://ieeexplore.ieee.org/document/8736487]" accepted by IEEE Transactions on Cybernetics.
+The code in this repository for paper "[Convolutional Multi-timescale Echo State Network](https://ieeexplore.ieee.org/document/8736487)" accepted by IEEE Transactions on Cybernetics.
 
 
 
@@ -33,6 +33,19 @@ You can run the command
 python ConvMESN.py
 ```
 to test the model ConvMESN.
+
+
+### Reference
+```
+@ARTICLE{convolutional2019Ma, 
+author={Q. {Ma} and E. {Chen} and Z. {Lin} and J. {Yan} and Z. {Yu} and W. W. Y. {Ng}}, 
+journal={IEEE Transactions on Cybernetics}, 
+title={Convolutional Multitimescale Echo State Network}, 
+year={2019}, 
+pages={1-13}, 
+ISSN={2168-2267}, 
+}
+```
 
 
 
